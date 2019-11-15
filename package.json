@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/notenoughneon/await-semaphore.git"
+    "url": "git+https://github.com/mipyykko/await-semaphore.git"
   },
   "keywords": [
     "promise",
@@ -21,9 +21,9 @@
   "author": "Emma Kuo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/notenoughneon/await-semaphore/issues"
+    "url": "https://github.com/mipyykko/await-semaphore/issues"
   },
-  "homepage": "https://github.com/notenoughneon/await-semaphore#readme",
+  "homepage": "https://github.com/mipyykko/await-semaphore#readme",
   "devDependencies": {
     "mocha": "^2.5.3",
     "typescript": "^1.8.10",
